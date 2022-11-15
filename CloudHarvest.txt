@@ -1,0 +1,54 @@
+1. Server Details >> text file and API
+API link : https://retoolapi.dev/DAuU39/serverDetails/1
+
+2. OS Information >> Text file and API
+API link : https://retoolapi.dev/UfFQw3/operatingSystem/1
+
+3. Compute Information(CPU and memory) >> API
+API Link : https://retoolapi.dev/HDYBF2/compute_1/
+
+4. Ports Information(Local and Remote) >> API
+API link : https://retoolapi.dev/FNYK3k/server_ports_info/1
+
+5. CPU Timestamp and 10 Samples >> API
+API Link : https://retoolapi.dev/qxkMoz/Server_CPU_Perfmon/1
+
+6. Memory Usage with Process name >> API
+API Link: https://retoolapi.dev/sfSVIj/Server_process_MemoryUsage/1
+
+7. Certificates in Server >> API
+API Link: https://retoolapi.dev/pcpqmG/Server_certificates/1
+
+8. LocalUsers Information >> API
+API Link : https://retoolapi.dev/1vMzNV/Server_LocalUsers/1
+
+9. Top 10 filesize information in server >> API
+API Link: https://retoolapi.dev/Mebdsk/Server_Top10_Files/
+
+10. Server drives size information :
+API Link: https://retoolapi.dev/b4PBeS/Server_PSDrive_info/1
+
+11.IIS information >> textt file and API
+API link : https://retoolapi.dev/vrbAp5/Server_IISSites
+
+12. Diskinfo >> textfile and API
+API Link : https://retoolapi.dev/O0j2DD/Server_diskspace/1
+
+13. IP and Mac info >> Textfile
+
+14. Collecting Non-Microsoft Information installed softwares >> Text file
+
+15. Collection Roles information >> Text file
+
+16. Services Information >> Text file
+
+17. Local ports information >> API
+API Link: https://retoolapi.dev/VuxwHW/LocalPort_info
+
+18. Remote Ports information >> API
+API Link: https://retoolapi.dev/9lfuUO/RemotePort_Info
+
+17. Server complete status >> API
+API Link: https://retoolapi.dev/KOrUOD/server_discovery_stats
+
+
